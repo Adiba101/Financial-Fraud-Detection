@@ -1,0 +1,7 @@
+Node,Centrality
+Payment_0.0,0.8
+Payment_1.0,0.8
+Device_0.0,0.4
+Fraud_1.0,0.4
+Fraud_0.0,0.4
+Device_1.0,0.4

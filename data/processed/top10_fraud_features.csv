@@ -1,0 +1,11 @@
+Feature,Importance
+keep_alive_session,0.14935915
+has_other_cards,0.13272078
+housing_status_4,0.10713561
+device_os_2,0.089187846
+housing_status_3,0.07497906
+phone_home_valid,0.056748275
+housing_status_1,0.047569074
+housing_status_2,0.04507176
+employment_status_1,0.040477224
+customer_age,0.03533353
