@@ -1,6 +1,12 @@
-# 🚨 Financial Fraud Detection System
+## 🚨 Financial Fraud Detection System
 
 An end-to-end AI-powered Financial Fraud Detection Platform built using Machine Learning, XGBoost, Streamlit, and Interactive Analytics Dashboards.
+
+---
+
+## Deployed link
+
+https://financial-fraud-detection-kbijev56fksm8tkzsumzgd.streamlit.app/
 
 ---
 
